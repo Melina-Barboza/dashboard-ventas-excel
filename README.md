@@ -60,8 +60,8 @@ La herramienta facilita la consulta y comparación de resultados por vendedores,
 
 ### Vista general del Dashboard
 
-![Dashboard de Ventas](dashboard-ventas.png)
-<img width="1903" height="624" alt="Captura-dash" src="https://github.com/user-attachments/assets/a36ed634-41b0-4948-bd2f-99bd438b54d4" />
+![Dashboard de Ventas](imagen-proyecto-ventas.PNG)
+<img width="1903" height="624" alt="Captura-dash" src="https://github.com/Melina-Barboza/dashboard-ventas-excel/blob/main/imagen-proyecto-ventas.PNG" />
 
 
 ## 💡 Conclusiones
